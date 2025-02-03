@@ -1,4 +1,3 @@
-/*
 CREATE DATABASE _Examen
 GO
 
@@ -12,8 +11,3 @@ CREATE TABLE transactions(
 	transaction_date datetime default current_timestamp
 )
 GO
-*/
-
-
-select * from transactions
-

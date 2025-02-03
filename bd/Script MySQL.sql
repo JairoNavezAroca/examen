@@ -1,4 +1,3 @@
-/*
 CREATE DATABASE _examen;
 
 USE _examen;
@@ -9,8 +8,3 @@ CREATE TABLE users(
 	email VARCHAR(255),
 	created_at TIMESTAMP DEFAULT current_timestamp	
 );
-
-*/
-
-SELECT * FROM users;
-
